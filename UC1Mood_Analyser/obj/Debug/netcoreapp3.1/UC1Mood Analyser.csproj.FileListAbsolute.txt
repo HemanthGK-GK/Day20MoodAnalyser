@@ -1,0 +1,14 @@
+C:\Users\91807\source\repos\UC1Mood Analyser\bin\Debug\netcoreapp3.1\UC1Mood Analyser.exe
+C:\Users\91807\source\repos\UC1Mood Analyser\bin\Debug\netcoreapp3.1\UC1Mood Analyser.deps.json
+C:\Users\91807\source\repos\UC1Mood Analyser\bin\Debug\netcoreapp3.1\UC1Mood Analyser.runtimeconfig.json
+C:\Users\91807\source\repos\UC1Mood Analyser\bin\Debug\netcoreapp3.1\UC1Mood Analyser.runtimeconfig.dev.json
+C:\Users\91807\source\repos\UC1Mood Analyser\bin\Debug\netcoreapp3.1\UC1Mood Analyser.dll
+C:\Users\91807\source\repos\UC1Mood Analyser\bin\Debug\netcoreapp3.1\UC1Mood Analyser.pdb
+C:\Users\91807\source\repos\UC1Mood Analyser\obj\Debug\netcoreapp3.1\UC1Mood Analyser.csproj.AssemblyReference.cache
+C:\Users\91807\source\repos\UC1Mood Analyser\obj\Debug\netcoreapp3.1\UC1Mood Analyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\source\repos\UC1Mood Analyser\obj\Debug\netcoreapp3.1\UC1Mood Analyser.AssemblyInfoInputs.cache
+C:\Users\91807\source\repos\UC1Mood Analyser\obj\Debug\netcoreapp3.1\UC1Mood Analyser.AssemblyInfo.cs
+C:\Users\91807\source\repos\UC1Mood Analyser\obj\Debug\netcoreapp3.1\UC1Mood Analyser.csproj.CoreCompileInputs.cache
+C:\Users\91807\source\repos\UC1Mood Analyser\obj\Debug\netcoreapp3.1\UC1Mood Analyser.dll
+C:\Users\91807\source\repos\UC1Mood Analyser\obj\Debug\netcoreapp3.1\UC1Mood Analyser.pdb
+C:\Users\91807\source\repos\UC1Mood Analyser\obj\Debug\netcoreapp3.1\UC1Mood Analyser.genruntimeconfig.cache
