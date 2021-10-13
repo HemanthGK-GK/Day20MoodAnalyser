@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC2Exception\bin\Debug\netcoreapp3.1\UC2Exception.exe
+C:\Users\91807\Desktop\Batch67\UC2Exception\bin\Debug\netcoreapp3.1\UC2Exception.deps.json
+C:\Users\91807\Desktop\Batch67\UC2Exception\bin\Debug\netcoreapp3.1\UC2Exception.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC2Exception\bin\Debug\netcoreapp3.1\UC2Exception.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC2Exception\bin\Debug\netcoreapp3.1\UC2Exception.dll
+C:\Users\91807\Desktop\Batch67\UC2Exception\bin\Debug\netcoreapp3.1\UC2Exception.pdb
+C:\Users\91807\Desktop\Batch67\UC2Exception\obj\Debug\netcoreapp3.1\UC2Exception.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC2Exception\obj\Debug\netcoreapp3.1\UC2Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC2Exception\obj\Debug\netcoreapp3.1\UC2Exception.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC2Exception\obj\Debug\netcoreapp3.1\UC2Exception.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC2Exception\obj\Debug\netcoreapp3.1\UC2Exception.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC2Exception\obj\Debug\netcoreapp3.1\UC2Exception.dll
+C:\Users\91807\Desktop\Batch67\UC2Exception\obj\Debug\netcoreapp3.1\UC2Exception.pdb
+C:\Users\91807\Desktop\Batch67\UC2Exception\obj\Debug\netcoreapp3.1\UC2Exception.genruntimeconfig.cache
